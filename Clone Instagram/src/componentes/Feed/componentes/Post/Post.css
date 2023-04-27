@@ -1,0 +1,86 @@
+.Post {
+    background: #ffffff;
+    border: 0.5px solid #ddd;
+    border-radius: 20px;
+    width: 468.8px;
+    min-height: 512px;
+    margin: 24px 0 0 0;
+}
+
+.ConteudoPost {
+    background: #d4d3d3;
+    width: 468px;
+    height: 500px;
+}
+.ConteudoPost img {
+    Width: 468px;
+    height: 500px;
+}
+
+.BarraSuperior {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.ImagemPerfilAutor {
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+    margin: 0 8px 0;
+}
+
+.ImagemPerfilAutor img {
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+}
+
+.MenuBarraSuperior {
+    height: 25px;
+    margin: 0 350px 0;
+}
+
+.BarraInferior {
+    height: 180px;
+    padding: 10px 15px;
+}
+
+.icon:hover {
+    color:aqua;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.icons-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons-1 .icons {
+    display: flex;
+    gap: 15px;
+}
+.icon {
+    font-size: 20px;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+strong {
+    font-size: 13px;
+}
+.foto img {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.foto {
+    display: flex;
+    gap: 10px;
+}

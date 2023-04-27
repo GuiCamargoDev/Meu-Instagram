@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2577b25.css",
+    "main.js": "/static/js/main.75a1f8a1.js",
+    "static/js/787.3e4e02e3.chunk.js": "/static/js/787.3e4e02e3.chunk.js",
+    "static/media/Imagem3.jpeg": "/static/media/Imagem3.48069ffcebc398c0daa7.jpeg",
+    "static/media/Imagem4.jpeg": "/static/media/Imagem4.1345ce049973d4d87fae.jpeg",
+    "static/media/Imagem2.jpg.png": "/static/media/Imagem2.jpg.0c125b41f84316221578.png",
+    "static/media/Imagem5.jpeg": "/static/media/Imagem5.154a5e071c17abc8d164.jpeg",
+    "static/media/Imagem1.jpeg": "/static/media/Imagem1.3c6f367fcf4e32be257e.jpeg",
+    "static/media/Prof Gabriel.jpeg": "/static/media/Prof Gabriel.5e9450b2261cc0fde89f.jpeg",
+    "static/media/file.jpg": "/static/media/file.f279bcd7238fd91225a1.jpg",
+    "static/media/Edu.jpg": "/static/media/Edu.a7e446156cd24889358c.jpg",
+    "static/media/Imagem2.jpeg": "/static/media/Imagem2.9a5182d86c02c13f936a.jpeg",
+    "static/media/Iago.jpg": "/static/media/Iago.d9ed0ded558088e8d96a.jpg",
+    "static/media/Eu.jpg": "/static/media/Eu.eeab76adebc0d3638bee.jpg",
+    "index.html": "/index.html",
+    "main.d2577b25.css.map": "/static/css/main.d2577b25.css.map",
+    "main.75a1f8a1.js.map": "/static/js/main.75a1f8a1.js.map",
+    "787.3e4e02e3.chunk.js.map": "/static/js/787.3e4e02e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2577b25.css",
+    "static/js/main.75a1f8a1.js"
+  ]
+}

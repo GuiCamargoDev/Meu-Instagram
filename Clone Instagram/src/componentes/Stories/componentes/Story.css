@@ -1,0 +1,46 @@
+.Story {
+    background: #ffffff;
+    border: 2px solid #05e8f0;
+    border-radius: 60px;
+    height: 60px;
+    width: 60px;
+    margin: 15px 10px 10px 8px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.Story:hover {
+    opacity: 0.85;
+    transition: 0.3s;
+}
+
+.imgStory img {
+    width: 100%;
+    border-radius: 60px;
+}
+
+.Story .nomeStory {
+    text-align: center;
+    font-size: 11px;
+}
+
+/*.Story {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;  
+}
+
+.Story .imgStory  {
+    width: 60px;
+    border-radius: 50px;
+}
+
+.Story .imgStory img {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.Story .nomeStory {
+    text-align: center;
+    font-size: 11px;
+}*/

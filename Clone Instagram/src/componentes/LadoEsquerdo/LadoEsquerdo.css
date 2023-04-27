@@ -1,0 +1,48 @@
+.LadoEsquerdo {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+
+.logo {
+    margin: 20px 20px;
+    cursor: pointer;
+}
+
+.menu-principal {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-principal span {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.Perfil img {
+    border-radius: 20px;
+    height: 30px;
+    width: 30px;
+}
+
+.Perfil {
+    display: flex;
+    align-items: center;
+}
+
+.menu-principal .icone {
+    margin: 0 2vh;
+}
+
+.Perfil {
+    margin: 0 1vh;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 1vh 1.5vh;
+    cursor: pointer;
+}
+
+.Perfil .texto {
+    margin: 0 1vh;
+}
